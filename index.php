@@ -1,5 +1,4 @@
 <?php
-
 use Timber\Timber;
 use Timber\Post;
 use Timber\PostQuery;
